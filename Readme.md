@@ -22,5 +22,9 @@ It's about a Personal Portfolio For Doctors
  # [link for Project-03](https://dainty-liger-d1f5a5.netlify.app/)
  
 ## Project 04
-  This is Landing page for a Crypto Market
-  # [Link for Project-04](https://beautiful-dango-a985f6.netlify.app/)
+  This is Landing page for a SEO Master
+  # [Link for Project-04](https://stunning-pithivier-5e1038.netlify.app/)
+  
+## Project 05
+  This is landing page for a Crypto Market
+  #[Link for Project-05](https://beautiful-dango-a985f6.netlify.app/)
