@@ -28,3 +28,7 @@ It's about a Personal Portfolio For Doctors
 ## Project 05
   This is landing page for a Crypto Market
   # [Link for Project-05](https://beautiful-dango-a985f6.netlify.app/)
+  
+## Project 06
+  This is Personla portfolio landing page 
+  # [Link for Project-06](https://clinquant-centaur-7f178f.netlify.app/)
